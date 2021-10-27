@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Board from '../Board';
-import calculateWinner from '../Calculate';
+import calculateWinner from '../../Calculate';
 
 const CONST_SIZE = 10;
 const CONST_POW  = 2;
